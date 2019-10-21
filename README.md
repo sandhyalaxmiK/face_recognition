@@ -1,4 +1,4 @@
-#Face_Clustering
+# Faces_Clustering
 _ Added a file face_cluster.py which takes input as a directory where images of humans are saved.
 _Output is a directory of subdirectories of each person images saved in separate directories
 _Kept tolarance as 0.6
@@ -6,7 +6,7 @@ _Kept tolarance as 0.6
 
 
 
-# Face Recognition
+# Faces_clustering
 
 _You can also read a translated version of this file [in Chinese 简体中文版](https://github.com/ageitgey/face_recognition/blob/master/README_Simplified_Chinese.md) or [in Korean 한국어](https://github.com/ageitgey/face_recognition/blob/master/README_Korean.md)._
 
